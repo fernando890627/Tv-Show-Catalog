@@ -1,1 +1,1 @@
-# Tv-Shows-Catalog
+# Tv Show Catalog
